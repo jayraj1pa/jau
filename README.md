@@ -1,2 +1,1 @@
-# jau
-Created with CodeSandbox
+![alt text](src/images/preview.png)
